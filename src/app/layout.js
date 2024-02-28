@@ -24,7 +24,7 @@ export default function RootLayout({ children }) {
         <ol>
           <ul>
             <li>
-              <a href="/creat">Create</a>
+              <a href="/create">Create</a>
             </li>
             <li>
               <a href="/update/1">Update</a>
